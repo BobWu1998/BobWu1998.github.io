@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'webrick'
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -10,6 +12,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+# gem "jekyll", "3.9.2"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
