@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](../files/BoWu_Research_v2.pdf)
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
