@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](../files/BoWu_Research_v2.pdf)
+[Download](../files/BoWu_Research_v3.pdf)
 
 <!-- Education
 ======
